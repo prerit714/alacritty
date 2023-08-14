@@ -39,11 +39,11 @@ style = "Bold"
 
 [font.bold_italic]
 family = "FiraCode Nerd Font Mono"
-style = "Bold Italic"
+style = "Bold"
 
 [font.italic]
 family = "FiraCode Nerd Font Mono"
-style = "Italic"
+style = "Bold"
 
 [font.normal]
 family = "FiraCode Nerd Font Mono"
