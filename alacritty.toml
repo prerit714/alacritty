@@ -39,15 +39,15 @@ style = "Bold"
 
 [font.bold_italic]
 family = "SauceCodePro Nerd Font Mono"
-style = "Bold"
+style = "Bold Italic"
 
 [font.italic]
 family = "SauceCodePro Nerd Font Mono"
-style = "Bold"
+style = "Italic"
 
 [font.normal]
 family = "SauceCodePro Nerd Font Mono"
-style = "Bold"
+style = "Normal"
 
 [font.offset]
 x = 0
